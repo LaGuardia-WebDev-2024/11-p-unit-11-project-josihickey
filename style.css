@@ -45,3 +45,16 @@ h2{
 #end{
   text-align: right;
 }
+
+#rhyme{
+  background-color: white;
+  font-family: "Meddon", cursive;
+}
+
+img{
+  border: 50px solid #DFB9CF;
+}
+
+#message{
+  background-color: white;
+}
